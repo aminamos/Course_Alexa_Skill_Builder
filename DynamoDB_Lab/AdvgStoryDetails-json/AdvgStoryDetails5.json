@@ -1,0 +1,11 @@
+{
+  "CountryId (S)": "1",
+  "QuestionNumber (N)": "4",
+  "NoEnergyImpact (N)": "-10",
+  "NoResponseText (S)": "Oh no, you found it thrilling to pretend to be one of the gladiators, but you are now exhausted. Your wealth stays the same and your energy descreases by 10.",
+  "NoWealthImpact (N)": "0",
+  "Tip (S)": "Touring the colosseum can be a rather exhausting experience.",
+  "YesEnergyImpact (N)": "15",
+  "YesResponseText (S)": "You've made a great choice adventurer. You take a quick rest during your adventure, you wealth decreases by 5 and your energy increases by 15.",
+  "YesWealthImpact (N)": "-5"
+}

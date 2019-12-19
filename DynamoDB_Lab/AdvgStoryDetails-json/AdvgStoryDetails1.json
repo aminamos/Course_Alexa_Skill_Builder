@@ -1,0 +1,11 @@
+{
+  "CountryId (S)": "1",
+  "QuestionNumber (N)": "1",
+  "NoEnergyImpact (N)": "5",
+  "NoResponseText (S)": "Oh no, your wealth decreases by 5 and your energy increases by 5.",
+  "NoWealthImpact (N)": "-5",
+  "Tip (S)": "You can't visit Italy without taking a gondola ride. Go for it!",
+  "YesEnergyImpact (N)": "10",
+  "YesResponseText (S)": "You've made a great choice adventurer. You Wealth decreases by 10 but your energy increases by 5.",
+  "YesWealthImpact (N)": "-10"
+}

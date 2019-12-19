@@ -1,0 +1,11 @@
+{
+  "CountryId (S)": "1",
+  "QuestionNumber (N)": "2",
+  "NoEnergyImpact (N)": "5",
+  "NoResponseText (S)": "The commotion in the square was a violent protest. Good job adventurer, you do not have to run away. Your energy increases by 5.",
+  "NoWealthImpact (N)": "0",
+  "Tip (S)": "I see police officers in the square. I wouldn't risk it.",
+  "YesEnergyImpact (N)": "0",
+  "YesResponseText (S)": "Oh no, adventurer. The protest in the square was a violent protest. You get locked up in jail. But you're in luck, you can pay to get out. Your wealth decreases by 5.",
+  "YesWealthImpact (N)": "-5"
+}
