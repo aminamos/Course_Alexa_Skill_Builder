@@ -1,11 +1,11 @@
 {
-    "CountryId (S)": "2",
-    "QuestionNumber (N)": "3",
-    "NoEnergyImpact (N)": "5",
-    "NoResponseText (S)": "Great choice, the sheep dog is not too friendly. He tends to chase strangers. Your wealth stays the same and your engergy increases by 5.",
-    "NoWealthImpact (N)": "0",
-    "Tip (S)": "I've heard the sheep dog is not too friendly.",
-    "YesEnergyImpact (N)": "-5",
-    "YesResponseText (S)": "Oh no! The sheep dog doesn't like you. He spends most of his time chasing you. Your wealth decreases by 5 and your energy decreases by 5.",
-    "YesWealthImpact (N)": "-10"
-  }
+  "CountryId": "2",
+  "QuestionNumber": 3,
+  "NoEnergyImpact": 5,
+  "NoResponseText": "Great choice, the sheep dog is not too friendly. He tends to chase strangers. Your wealth stays the same and your engergy increases by 5.",
+  "NoWealthImpact": 0,
+  "Tip": "I've heard the sheep dog is not too friendly.",
+  "YesEnergyImpact": -5,
+  "YesResponseText": "Oh no! The sheep dog doesn't like you. He spends most of his time chasing you. Your wealth decreases by 5 and your energy decreases by 5.",
+  "YesWealthImpact": -10
+}

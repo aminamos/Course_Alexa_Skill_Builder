@@ -1,11 +1,11 @@
 {
-  "CountryId (S)": "2",
-  "QuestionNumber (N)": "2",
-  "NoEnergyImpact (N)": "-10",
-  "NoResponseText (S)": "The camel could have really helped you to explore the desert. Your wealth decreases by 5 becasue you call an Uber to leave early and your energy decreases by 10.",
-  "NoWealthImpact (N)": "-5",
-  "Tip (S)": "Taking this tour right when you land could be rather exhausting.",
-  "YesEnergyImpact (N)": "5",
-  "YesResponseText (S)": "Great choice adventurer. The camel saves your energy and allows you to see more of the desert. Your wealth decreases by 5 and your energy increases by 10.",
-  "YesWealthImpact (N)": "-10"
+  "CountryId": "2",
+  "QuestionNumber": 2,
+  "NoEnergyImpact": -10,
+  "NoResponseText": "The camel could have really helped you to explore the desert. Your wealth decreases by 5 becasue you call an Uber to leave early and your energy decreases by 10.",
+  "NoWealthImpact": -5,
+  "Tip": "Taking this tour right when you land could be rather exhausting.",
+  "YesEnergyImpact": 5,
+  "YesResponseText": "Great choice adventurer. The camel saves your energy and allows you to see more of the desert. Your wealth decreases by 5 and your energy increases by 10.",
+  "YesWealthImpact": -10
 }

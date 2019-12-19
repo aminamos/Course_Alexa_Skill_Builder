@@ -1,5 +1,5 @@
 {
-  "CountryId (S)": "1",
-  "QuestionNumber (N)": "4",
-  "QuestionText (S)": "You've always imagined being one of the spectators when gladiators fought at the colosseum <audio src=\"soundbank://soundlibrary/swords/swords_03\"/> Do you walk through the history of Rome's majesty at the colosseum, yes or no?"
+  "CountryId": "1",
+  "QuestionNumber": 4,
+  "QuestionText": "You've always imagined being one of the spectators when gladiators fought at the colosseum <audio src=\"soundbank://soundlibrary/swords/swords_03\"/> Do you walk through the history of Rome's majesty at the colosseum, yes or no?"
 }

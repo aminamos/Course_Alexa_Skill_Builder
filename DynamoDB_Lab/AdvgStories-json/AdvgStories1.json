@@ -1,5 +1,5 @@
 {
-  "CountryId (S)": "1",
-  "QuestionNumber (N)": "1",
-  "QuestionText (S)": "You see a gondola ride <audio src=\"soundbank://soundlibrary/boats_ships/oar_boat/oar_boat_01\"/> Do you take it, yes or no?"
+  "CountryId": "1",
+  "QuestionNumber": 1,
+  "QuestionText": "You see a gondola ride <audio src=\"soundbank://soundlibrary/boats_ships/oar_boat/oar_boat_01\"/> Do you take it, yes or no?"
 }

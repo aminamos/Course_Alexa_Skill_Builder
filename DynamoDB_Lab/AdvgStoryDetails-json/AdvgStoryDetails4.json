@@ -1,11 +1,11 @@
 {
-  "CountryId (S)": "1",
-  "QuestionNumber (N)": "3",
-  "NoEnergyImpact (N)": "-5",
-  "NoResponseText (S)": "Oh no, now you have to pay double the price when your travel partner decides to take this tour later during your adventure. Your wealth decreases by 10 and your energy descreases by 5.",
-  "NoWealthImpact (N)": "-10",
-  "Tip (S)": "A private pasta-making lesson at a working Tuscan farm? That sounds like fun adventurer.",
-  "YesEnergyImpact (N)": "10",
-  "YesResponseText (S)": "You've made a great choice adventurer. You Wealth increases by 10 and your energy increases by 10.",
-  "YesWealthImpact (N)": "10"
+  "CountryId": "1",
+  "QuestionNumber": 3,
+  "NoEnergyImpact": -5,
+  "NoResponseText": "Oh no, now you have to pay double the price when your travel partner decides to take this tour later during your adventure. Your wealth decreases by 10 and your energy descreases by 5.",
+  "NoWealthImpact": -10,
+  "Tip": "A private pasta-making lesson at a working Tuscan farm? That sounds like fun adventurer.",
+  "YesEnergyImpact": 10,
+  "YesResponseText": "You've made a great choice adventurer. You Wealth increases by 10 and your energy increases by 10.",
+  "YesWealthImpact": 10
 }

@@ -1,5 +1,5 @@
 {
-  "CountryId (S)": "1",
-  "QuestionNumber (N)": "2",
-  "QuestionText (S)": "You hear commotion and church bells ringing <audio src=\"soundbank://soundlibrary/musical/amzn_sfx_church_bell_1x_05\"/> Look it's in Saint Peter's square. Do you see what's going on, yes or no?"
+  "CountryId": "1",
+  "QuestionNumber": 2,
+  "QuestionText": "You hear commotion and church bells ringing <audio src=\"soundbank://soundlibrary/musical/amzn_sfx_church_bell_1x_05\"/> Look it's in Saint Peter's square. Do you see what's going on, yes or no?"
 }

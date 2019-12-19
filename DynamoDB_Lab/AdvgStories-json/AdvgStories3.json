@@ -1,5 +1,5 @@
 {
-  "CountryId (S)": "2",
-  "QuestionNumber (N)": "3",
-  "QuestionText (S)": "<audio src=\"soundbank://soundlibrary/animals/amzn_sfx_horse_huff_whinny_01\"/> You've always wanted to live the life of an Australian Cowboy. You have the opportunity to herd and shear sheep. Do you take it, yes or no?"
+  "CountryId": "2",
+  "QuestionNumber": 3,
+  "QuestionText": "<audio src=\"soundbank://soundlibrary/animals/amzn_sfx_horse_huff_whinny_01\"/> You've always wanted to live the life of an Australian Cowboy. You have the opportunity to herd and shear sheep. Do you take it, yes or no?"
 }

@@ -1,11 +1,11 @@
 {
-  "CountryId (S)": "2",
-  "QuestionNumber (N)": "1",
-  "NoEnergyImpact (N)": "10",
-  "NoResponseText (S)": "Great choice adventurer, after flying for hours to reach Australia, rest is exactly what you need. Your wealth stays the same and your energy increases by 10.",
-  "NoWealthImpact (N)": "0",
-  "Tip (S)": "Taking this tour right when you land could be rather exhausting.",
-  "YesEnergyImpact (N)": "-5",
-  "YesResponseText (S)": "Oh no, after flying for hours to reach Australia, you are too exhausted to enjoy the tour. Your wealth stays the same but your energy decreases by 5.",
-  "YesWealthImpact (N)": "0"
+  "CountryId": "2",
+  "QuestionNumber": 1,
+  "NoEnergyImpact": 10,
+  "NoResponseText": "Great choice adventurer, after flying for hours to reach Australia, rest is exactly what you need. Your wealth stays the same and your energy increases by 10.",
+  "NoWealthImpact": 0,
+  "Tip": "Taking this tour right when you land could be rather exhausting.",
+  "YesEnergyImpact": -5,
+  "YesResponseText": "Oh no, after flying for hours to reach Australia, you are too exhausted to enjoy the tour. Your wealth stays the same but your energy decreases by 5.",
+  "YesWealthImpact": 0
 }
